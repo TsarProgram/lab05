@@ -1,6 +1,6 @@
 # lab05
 [![Build Status](https://travis-ci.com/TsarProgram/lab05.svg?branch=master)](https://travis-ci.com/TsarProgram/lab05)
-[![Coverage Status](https://coveralls.io/repos/github/TsarProgram/lab05/badge.svg?branch=main)](https://coveralls.io/github/TsarProgram/lab05?branch=main)
+[![Coverage Status](https://coveralls.io/github/TsarProgram/lab5?branch=master)](https://coveralls.io/github/TsarProgram/lab05?branch=main)
 ```
 
     Создайте CMakeList.txt для библиотеки banking.
