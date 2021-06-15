@@ -1,5 +1,5 @@
 # lab05
-[![Build Status](https://travis-ci.com/TsarProgram/lab05.svg?branch=master](https://travis-ci.com/TsarProgram/lab05)
+[![Build Status](https://travis-ci.com/TsarProgram/lab05.svg?branch=master)](https://travis-ci.com/TsarProgram/lab05)
 [![Coverage Status](https://coveralls.io/repos/github/TsarProgram/lab05/badge.svg?branch=main)](https://coveralls.io/github/TsarProgram/lab05?branch=main)
 ```
 
